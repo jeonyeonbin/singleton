@@ -1,0 +1,2 @@
+# singleton
+java singleton library
